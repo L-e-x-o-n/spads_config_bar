@@ -85,7 +85,7 @@ globalPluginParams = {'crashDir': ['notNull'], 'crashFilePattern': ['notNull'], 
 presetPluginParams = None
 
 # For sending end game data
-end_game_data_url = "https://server4.beyondallreason.info/teiserver/api/spads/end_game_data"
+end_game_data_url = "https://server5.beyondallreason.info/teiserver/api/spads/end_game_data"
 
 # This is how SPADS gets our version number (mandatory callback)
 
